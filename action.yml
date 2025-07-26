@@ -1,5 +1,9 @@
 name: 'hash-files'
 description: 'Compute the SHA256 hash of specified files'
+branding:
+  icon: file
+  color: blue
+
 author: 'seepine'
 inputs:
   workdir:
