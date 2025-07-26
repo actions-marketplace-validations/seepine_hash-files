@@ -1,6 +1,6 @@
 {
   "name": "hash-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Actions of Compute the SHA256 hash of specified files",
   "main": "lib/main.js",
